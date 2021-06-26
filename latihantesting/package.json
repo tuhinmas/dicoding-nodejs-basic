@@ -1,0 +1,14 @@
+{
+  "name": "latihantesting",
+  "version": "1.0.0",
+  "description": "latiha QA test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "tms",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
